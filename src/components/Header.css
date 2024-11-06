@@ -1,0 +1,11 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    align-items: center;
+    max-width: 1200px;
+    margin: auto;
+    border-bottom: 1px solid #EEEEEE;
+    font-size: 18px;
+    padding: 0px 10px;
+  }

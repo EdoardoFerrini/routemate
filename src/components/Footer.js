@@ -1,7 +1,8 @@
+import "./Footer.css"
 export const Footer = () =>{
     return(
-        <div>
-            <h1>Footer</h1>
-        </div>
+        <footer>
+            <p>Footer</p>
+        </footer>
     )
 }
