@@ -3,3 +3,11 @@
   margin: auto;
   padding: 0px 10px;
 }
+.component{
+  font-size: 22px;
+  padding: 20px 10px;
+  box-shadow: var(--box-shadow);
+  border-radius: 5px;
+  text-align: center;
+  margin: 20px 0px;
+}

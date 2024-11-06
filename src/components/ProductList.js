@@ -1,6 +1,6 @@
 export const ProductList = () =>{
     return(
-        <div>
+        <div className="component">
             <p>Product List</p>
         </div>
     )

@@ -1,6 +1,6 @@
 export const ProductDetail = () =>{
     return(
-        <div>
+        <div className="component">
             <p>Product Details</p>
         </div>
     )

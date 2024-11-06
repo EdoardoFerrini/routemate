@@ -1,6 +1,9 @@
+import { useNavigate } from "react-router-dom"
+
 export const Contact = () =>{
+   
     return(
-        <div>
+        <div className="component">
             <p>Contact</p>
         </div>
     )
